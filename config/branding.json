@@ -1,11 +1,11 @@
 {
-  "companyName": "CyberDrain",
-  "companyURL": "https://cyberdrain.com/",
-  "productName": "Check",
-  "version": "1.0.4",
+  "companyName": "cyberMIND",
+  "companyURL": "https://cybermind.biz/",
+  "productName": "cM Phishing Protection",
+  "version": "1.0.5",
   "description": "Protect against phishing attacks targeting Microsoft 365 login pages with enterprise-grade detection",
   "branding": {
-    "primaryColor": "#F77F00",
+    "primaryColor": "#5298B1",
     "primaryHover": "#E56F00",
     "primaryLight": "rgba(247, 127, 0, 0.1)",
     "primaryDark": "#D96800",
@@ -46,10 +46,10 @@
     "customIconsEnabled": true
   },
   "features": {
-    "welcomeMessage": "Welcome to Check, CyberDrain's Microsoft 365 Phishing Protection - Safeguard Your Organization",
+    "welcomeMessage": "Welcome to cM Phishing Protection, cyberMIND's Microsoft 365 Phishing Protection - Safeguard Your Organization",
     "tagline": "Advanced phishing detection for Microsoft 365 login pages by CyberDrain",
-    "securityBadgeText": "Protected by CyberDrain",
-    "blockedPageTitle": "Phishing Attempt Blocked by CyberDrain",
+    "securityBadgeText": "Protected by cyberMIND",
+    "blockedPageTitle": "Phishing Attempt Blocked by cyberMIND",
     "blockedPageMessage": "This page appears to be a phishing attempt targeting Microsoft 365 credentials. CyberDrain has blocked access to protect your organization."
   },
   "customText": {
@@ -71,12 +71,7 @@
       "24/7 enterprise security support"
     ]
   },
-  "socialMedia": {
-    "twitter": "https://twitter.com/cyberdrain",
-    "linkedin": "https://linkedin.com/company/cyberdrain",
-    "youtube": "https://youtube.com/c/cyberdrain",
-    "github": "https://github.com/cyberdrain"
-  },
+
   "whiteLabel": {
     "enabled": true,
     "allowCustomColors": true,
