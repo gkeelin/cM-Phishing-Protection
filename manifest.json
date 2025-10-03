@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Check by CyberDrain",
-  "version": "1.0.5",
+  "name": "cM Phishing Protection By cyberMIND",
+  "version": "1.0.6",
   "description": "Protect against phishing attacks targeting Microsoft 365 login pages with enterprise-grade detection",
   "permissions": [
     "storage",
